@@ -1,13 +1,13 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "exoticfactorytweaks",
+  "name": "ExoticFactory Tweaks",
+  "description": "Add some things to Exoticfactory Modpack",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["CleanroomMC"],
+  "authorList": ["Sponge"],
   "credits": "Authors of this project",
   "logoFile": "",
   "screenshots": [],
