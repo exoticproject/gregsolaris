@@ -1,8 +1,8 @@
 [
 {
-  "modid": "exoticfactorytweaks",
-  "name": "ExoticFactory Tweaks",
-  "description": "Add some things to Exoticfactory Modpack",
+  "modid": "gregsolaris",
+  "name": "Greg Solaris",
+  "description": "Add variety solar panels to Gregtech CEu",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
